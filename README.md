@@ -56,7 +56,7 @@ python manage.py runserver
         "survey-id": 1,
         "answers": {
             "1": [1],         
-            "2": [5, 6],                     /* Ключ question-id, значение - список option-id или тектового варианта ответа */
+            "2": [5, 6],                    
             "3": ["Example of answer"]   
          }
      }
