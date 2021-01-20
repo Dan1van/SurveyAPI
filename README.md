@@ -23,6 +23,8 @@ git clone https://github.com/Dan1van/technical-inspection-website.git
 pip install -r requirements.txt
 ```
 
+## Использование
+
 Запустить скрипт **manage.py**
 
 ```bash
