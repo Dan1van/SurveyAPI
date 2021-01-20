@@ -55,9 +55,9 @@ python manage.py runserver
         "user-id": 1,
         "survey-id": 1,
         "answers": {
-            "1": [1],         <--
-            "2": [5, 6],      <--                Ключ question-id, значение - список option-id или тектового варианта ответа
-            "3": ["Example of answer"]   <--
+            "1": [1],         
+            "2": [5, 6],                     // Ключ question-id, значение - список option-id или тектового варианта ответа
+            "3": ["Example of answer"]   
          }
      }
 }
