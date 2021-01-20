@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-Страницы API:
+### Страницы API:
 
 Документация, выполненная при помощи библиотеки yasg: 
 
