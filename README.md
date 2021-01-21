@@ -41,7 +41,7 @@ python manage.py runserver
 Страница для администратора: http://127.0.0.1:8000/admin/ 
 
 Логин: **admin**
-Пароль: **password**
+Пароль: **admin**
 
 Страница с активными опросами: http://127.0.0.1:8000/api/survey/
 
